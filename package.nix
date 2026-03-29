@@ -18,7 +18,7 @@ rustPlatform.buildRustPackage rec {
     owner = "Sirulex";
     repo = "cursor-clip";
     rev = "4cbfaf56e6ca06c39f08b1f72394702aae3fbf35";
-    hash = "sha256-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=";
+    hash = "sha256-pcaflvMzcxva1Lshw7PWifV8r/SwI/0O9iBYdZkTjs=";
   };
 
   cargoHash = "sha256-BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB=";
