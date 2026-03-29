@@ -8,6 +8,8 @@
 , wayland
 , wayland-protocols
 , gtk4-layer-shell
+, dbus
+, glib
 }:
 
 rustPlatform.buildRustPackage rec {
